@@ -2,7 +2,7 @@
 
 **Effective date:** November 25, 2026
 
-This Privacy Policy explains how **[App Name]** ("the App", "we", "us" or "our"), operated by **[Developer / Company Name]**, collects, uses, shares and protects your information when you use our mobile application, website and related services (together, the "Service").
+This Privacy Policy explains how **Nutritechno** ("the App", "we", "us" or "our"), operated by **Priyansh Bhalia**, collects, uses, shares and protects your information when you use our mobile application, website and related services (together, the "Service").
 
 By using the Service, you agree to the collection and use of information as described in this policy. If you do not agree, please do not use the Service.
 
@@ -87,7 +87,7 @@ To use any of these rights, contact us using the details in Section 12. We will 
 
 You can ask us to delete your account and the personal data linked to it at any time by:
 - using the **Delete Account** option in the App's settings, if available; or
-- emailing us at **[contact email]** with the subject "Delete my account" from the email address linked to your account.
+- emailing us at **priyanshbhalia20@gmail.com** with the subject "Delete my account" from the email address linked to your account.
 
 We will delete your account and personal data within 30 days, except for information we must keep by law.
 
@@ -107,5 +107,5 @@ We may update this Privacy Policy from time to time. When we do, we will post th
 
 If you have any questions about this Privacy Policy or how we handle your information, contact us:
 
-- **Name:** [Developer / Company Name]
-- **Email:** [contact email]
+- **Name:** Priyansh Bhalia
+- **Email:** priyanshbhalia20@gmail.com
